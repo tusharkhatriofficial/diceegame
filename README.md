@@ -1,5 +1,5 @@
 # Dicee Game
-This game is developed to help you settle your disputes. Play is using the link below:<br>⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇<br>
+This game is developed to help you settle your disputes. Play by clicking on the link below:<br>⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇<br>
 https://tusharkhatriofficial.github.io/diceegame/
 
 <br><br><br>
